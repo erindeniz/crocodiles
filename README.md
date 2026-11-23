@@ -1,9 +1,8 @@
 # crocodiles
-# crocodiles
 
-[Version 1](PASTE-YOUR-VERSION-1-LINK-HERE)
+[Version 1](https://erindeniz.github.io/crocodiles/version1.html)
 
-[Version 2](PASTE-YOUR-VERSION-2-LINK-HERE)
+[Version 2](https://erindeniz.github.io/crocodiles/version2.html)
 
-[Version 3](https://github.com/erindeniz/crocodiles/tree/7728482309cafff5145d1fa2670b5e994f72159e/version3)
+[Version 3](https://erindeniz.github.io/crocodiles/version3.html)
 
