@@ -1,5 +1,4 @@
 # crocodiles
-# crocodiles
 
 [Version 1](PASTE-YOUR-VERSION-1-LINK-HERE)
 
