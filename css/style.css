@@ -45,7 +45,49 @@ hanging-punctuation: first;
 text-indent: -0.75rem
 }
 
+nav {
+    display: flex;
+    padding: 1.5rem 0;
+    font-size: 0.8rem;
+}
+
+nav ul {
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    list-style-type: none;
+    padding-right: 70px;
+}
+
+nav ul li {
+    display: inline;
+    margin-top: 5px;
+}
+
+nav a {
+    border-bottom: none;
+    text-decoration: none;
+    color: rgb(254, 253, 253);
+    padding: 10px;
+}
+
+
+
+
+
 p, blockquote {
     margin-bottom: 1.5rem;
     line-height: 1.5
 } 
+
+
+.responsivenav {
+    background:none
+    padding; bottom 10px;
+    font-display: flex;
+    justify-content : space-between;
+    aling-items : centre;
+   }
+
+
+
