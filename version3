@@ -16,8 +16,9 @@
  <body>
   <div class="responsivenav"></div>
   <p>The Street of Crocodiles</p>
-    </div>
+    <div id="logo">
 <nav>
+  </div>
 <ul>
 <li><a href="#mornings">Luminous Mornings</a></li>
 <li><a href="#market">Market Square</a></li>
