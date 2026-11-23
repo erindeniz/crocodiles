@@ -41,7 +41,7 @@ melting pulp of golden pears.</p>
 
 <h2>Luminous Mornings</h2>
   <h2 id="mornings">Luminous Mornings</h2>
-
+,<div class="light">
 <p>On those luminous mornings Adela returned from the market, like Pomona emerging from
 the flames of day, spilling from her basket the colourful beauty of the sun - the shiny pink
 cherries full of juice under their transparent skins, the mysterious black morellos that
@@ -70,6 +70,7 @@ their faces with thick gold paint; they smiled at each other's pagan faces—the
 smiles of Bacchus."</p>
 </blockquote>
 
+<div class="light"></div>
 <h2>The Market Square</h2>
 <h2 id="market">The Market Square</h2>
 
@@ -99,6 +100,7 @@ Under our soft steps the squares of the paving stones slowly filed past—some t
 of human skin, some golden, some blue-gray, all flat, warm and velvety in the sun, like
 sundials, trodden to the point of obliteration, into blessed nothingness.</p>
 
+<div class="light"></div>
 <h2>Stryjska Street</h2>
 <h2 id="street">Stryjska Street</h2>
 
@@ -118,6 +120,7 @@ weight of its monstrous girth. But the naïve, suburban bluebells and unpretenti
 flowers stood helpless in their starched pink and white shifts, indifferent to the sunflower's tragedy.</p>
 
 <section>
+  <div class="light"></div>
   <h2 id="Books">bruno Schultz Books</h2>
   Bruno Schultz Books
   <ul> 

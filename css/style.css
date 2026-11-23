@@ -71,7 +71,10 @@ nav a {
     padding: 10px;
 }
 
-
+nav a:hover {
+    color: rgb(15, 65, 90);
+    transition: all 0.3s ease-in-out;
+}
 
 
 
@@ -83,7 +86,7 @@ p, blockquote {
 
 .responsivenav {
     background:none
-    padding; bottom 10px;
+    padding; bottom: 0%;
     font-display: flex;
     justify-content : space-between;
     aling-items : centre;
