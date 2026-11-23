@@ -7,6 +7,12 @@
 </head>
 <body>
     <h1>The Street of Crocodiles</h1>
+   <link href="css/reset.css" type="text/css" rel="stylesheet"/>
+   <link href="css/style.css" type="text/css" rel="stylesheet"/>
+ <link href="<link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+ 
 
 <h2>Bruno Schultz</h2>
 
@@ -90,12 +96,11 @@ hypertrophy, clad in the yellow mourning of the last sorrowful days of its life,
 weight of its monstrous girth. But the naïve, suburban bluebells and unpretentious dimity
 flowers stood helpless in their starched pink and white shifts, indifferent to the sunflower's tragedy.</p>
 
+
 <p>Markup and design: Xxxxxx Xxxxxx
 Images: Xxxxxxxx</p>
 <footer> This text is used under the terms of the Project Gutenberg License www.gutenberg.org.</footer>
 
-
-</body>
 
 
 
